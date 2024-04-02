@@ -3,6 +3,8 @@
 <!--
 **meta40r/meta40r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="hero.svg" width="800" height="400">
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
